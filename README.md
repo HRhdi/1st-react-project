@@ -1,3 +1,3 @@
 # 1st-react-project
  
- 👀 [See the project](https://1st-react-project-rhdi.netlify.com/)
+ 👀 <a href="https://1st-react-project-rhdi.netlify.com/" target="_blank">See the project</a>
